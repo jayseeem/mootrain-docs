@@ -165,3 +165,7 @@ nav:
   - Target:
     - target/index.md
     - Order Cancel Checker: target/order_cancel_checker.md
+  - Sam's Club:
+    - samsclub/index.md
+    - Save Item To List: samsclub/save_to_list.md
+    - Quick ATC: samsclub/quick_atc.md
